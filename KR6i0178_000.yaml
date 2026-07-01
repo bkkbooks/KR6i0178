@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0178/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大花嚴長者問佛那羅延力經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0547.xml
+    old_id: T14n0547
+hash: sha256:c97ea6676955d5817560f31ddeb1c542c636b922205f80c8d2ffb4967dd13055

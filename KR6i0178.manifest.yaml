@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6i0178/v1
+canonical_location: https://kanripo.org/bkk/KR6i0178/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大花嚴長者問佛那羅延力經
+  identifiers:
+    alt_id:
+    - T14n0547
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0547.xml
+    old_id: T14n0547
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0178_000.yaml, hash: 'sha256:c97ea6676955d5817560f31ddeb1c542c636b922205f80c8d2ffb4967dd13055'}
+  - {seq: 1, filename: KR6i0178_001.yaml, hash: 'sha256:284f14a2f9f96c22a853f8352cc785b92cea0f1ccab5fdccccd1f597abe82cda'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0178_001.markers.yaml, hash: 'sha256:95784c5bcd70b99351a52d5ba345d9c801b315f5e9580d57c246171b5b2fe7a3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0178_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 485
+  label: 大花嚴長者問佛那羅延力經
+  type: juan
+  level: 1
+hash: sha256:b1069abaed641c993711ee4b158fcb1e03403f086586004c928fb36a4a45b766
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
