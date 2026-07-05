@@ -65,7 +65,6 @@ markers:
   - {type: xml-element, offset: 176, content: '', id: KR6i0178_T_001-bkkxmlele3, name: note, role: open, attrs: {place: inline}}
   - {type: punctuation, offset: 179, content: ，, id: KR6i0178_T_001-bkkpn36}
   - {type: punctuation, offset: 184, content: ，, id: KR6i0178_T_001-bkkpn37}
-  - {type: substitution, offset: 186, original: 脚, replacement: 腳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4530}}
   - {type: punctuation, offset: 191, content: 、, id: KR6i0178_T_001-bkkpn38}
   - {type: line-break, offset: 192, content: '', id: KR6i0178_T_001-0853a17, ed: T, 'n': 0853a17}
   - {type: punctuation, offset: 195, content: ，, id: KR6i0178_T_001-bkkpn39}
@@ -94,10 +93,8 @@ markers:
   - {type: punctuation, offset: 349, content: ，, id: KR6i0178_T_001-bkkpn53}
   - {type: line-break, offset: 356, content: '', id: KR6i0178_T_001-0853a26, ed: T, 'n': 0853a26}
   - {type: punctuation, offset: 360, content: ，, id: KR6i0178_T_001-bkkpn54}
-  - {type: substitution, offset: 367, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: punctuation, offset: 372, content: ，, id: KR6i0178_T_001-bkkpn55}
   - {type: line-break, offset: 373, content: '', id: KR6i0178_T_001-0853a27, ed: T, 'n': 0853a27}
-  - {type: substitution, offset: 373, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: punctuation, offset: 384, content: ，, id: KR6i0178_T_001-bkkpn56}
   - {type: line-break, offset: 390, content: '', id: KR6i0178_T_001-0853a28, ed: T, 'n': 0853a28}
   - {type: punctuation, offset: 401, content: ，, id: KR6i0178_T_001-bkkpn57}
@@ -127,4 +124,4 @@ markers:
   - {type: xml-element, offset: 485, content: '', id: pT14p0853b0401_end, name: p, role: close, attrs: {'xml:id': pT14p0853b0401}}
   - {type: line-break, offset: 485, content: '', id: KR6i0178_T_001-0853b06, ed: T, 'n': 0853b06}
   back: []
-hash: sha256:95784c5bcd70b99351a52d5ba345d9c801b315f5e9580d57c246171b5b2fe7a3
+hash: sha256:b285ee21a161c7b09b34b39321e4f759a8c78d7e593f0f855ccaef579d482591

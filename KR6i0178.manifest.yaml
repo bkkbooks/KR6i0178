@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6i0178_000.yaml, hash: 'sha256:c97ea6676955d5817560f31ddeb1c542c636b922205f80c8d2ffb4967dd13055'}
-  - {seq: 1, filename: KR6i0178_001.yaml, hash: 'sha256:284f14a2f9f96c22a853f8352cc785b92cea0f1ccab5fdccccd1f597abe82cda'}
+  - {seq: 1, filename: KR6i0178_001.yaml, hash: 'sha256:80193f3bf642a50ffc92720e956e39d7183be7591d736d3ccc662b3ac4fac7f3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0178_001.markers.yaml, hash: 'sha256:95784c5bcd70b99351a52d5ba345d9c801b315f5e9580d57c246171b5b2fe7a3'}
+  - {seq: 0, role: markers, filename: assets/KR6i0178_000.markers.yaml, hash: 'sha256:3250f34ba2c8d81ae3b89334de55601dcb2880f45247d36e599480c1fdf572c6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0178_001.markers.yaml, hash: 'sha256:b285ee21a161c7b09b34b39321e4f759a8c78d7e593f0f855ccaef579d482591'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 大花嚴長者問佛那羅延力經
   type: juan
   level: 1
-hash: sha256:b1069abaed641c993711ee4b158fcb1e03403f086586004c928fb36a4a45b766
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7c398a0d55fac875868465650d59dfb861436d07ada9ccc131f9597f7d3c43ab
 editions:
 - short: T
