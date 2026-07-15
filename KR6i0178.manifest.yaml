@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0178/v1
 canonical_location: https://kanripo.org/bkk/KR6i0178/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大花嚴長者問佛那羅延力經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6i0178_000.yaml, hash: 'sha256:c97ea6676955d5817560f31ddeb1c542c636b922205f80c8d2ffb4967dd13055'}
-  - {seq: 1, filename: KR6i0178_001.yaml, hash: 'sha256:80193f3bf642a50ffc92720e956e39d7183be7591d736d3ccc662b3ac4fac7f3'}
+  - {seq: 1, filename: KR6i0178_001.yaml, hash: 'sha256:48464cb7d30fe11d000c997a9b72cc7b131e40f3e426f471f5e0098164eea4ef'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0178_000.markers.yaml, hash: 'sha256:3250f34ba2c8d81ae3b89334de55601dcb2880f45247d36e599480c1fdf572c6'}
-  - {seq: 1, role: markers, filename: assets/KR6i0178_001.markers.yaml, hash: 'sha256:b285ee21a161c7b09b34b39321e4f759a8c78d7e593f0f855ccaef579d482591'}
+  - {seq: 1, role: markers, filename: assets/KR6i0178_001.markers.yaml, hash: 'sha256:b4dcc910a238f47831c3b30bbf772737a5e950c191b2bc0a331614afb0d03107'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 大花嚴長者問佛那羅延力經
   type: juan
   level: 1
-hash: sha256:7c398a0d55fac875868465650d59dfb861436d07ada9ccc131f9597f7d3c43ab
+hash: sha256:c336c4c89db91ea4adbafa79553b8a850a2a286488f643afd509b1371b9c84ae
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
